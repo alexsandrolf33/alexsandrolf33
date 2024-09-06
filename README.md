@@ -1,16 +1,12 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil!! 🖤
+*meu nome e alexsandro*
 
-<!--
-**alexsandrolf33/alexsandrolf33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 estudo o alura e estou aqui testando.
+- 🌱estou me desenvolvendo na javascript. 
+- 👯 estou no 1 ano do ensino médio estudando programação.
+- 🤔 sou bem responsável e bem engraçado e pretendo me formar em progamação quando for mais velho.
+- 💬 gosto de coversar,ir pra academia,de animes e de comer pizza.
+- 😄 sou hetero e socializo bem.
+- ⚡me entreguei a deus e sou feliz.
+- e é isso por enquanto
